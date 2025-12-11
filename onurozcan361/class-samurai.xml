@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Samurai</name>
-        <update version="0.0.1">
+        <update version="1.0.0">
             <file name="class-samurai.xml" url="https://raw.githubusercontent.com/onurozcan361/clovia-campaign/master/onurozcan361/class-samurai.xml" />
         </update>
 	</info>
