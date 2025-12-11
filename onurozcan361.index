@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Your Content</name>
+		<update version="1.0.0">
+			<file name="user-yourname.index" url="https://raw.githubusercontent.com/onurozcan361/clovia-campaign/master/onurozcan361.index" />
+		</update>
+	</info>
+	<files>
+		<file name="class-samurai.xml" url="https://raw.githubusercontent.com/onurozcan361/clovia-campaign/master/onurozcan361/class-samurai.xml" />
+	</files>
+</index>
